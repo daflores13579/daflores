@@ -1,15 +1,15 @@
 # Hello, I'm David
-<a href="">Placeholder for LinkedIn link</a>
+<a href="">https://www.linkedin.com/in/da-flores/</a>
 
 [Brief Introduction]
 
-I am a recent graduate with a passion for technology and dedication to solving problems.
+I am a CIS graduate with a passion for problem solving through the use of technology and a dedication to helping others.
 
 ## Objective
 
 [Provide Objective]
 
-My journey into computer information systems has led me to develop a passion for cybersecurity. I am eager to transition into this field.
+My journey into computer information systems has led me to develop a passion for cloud and security. I am eager to transition into this field.
 
 ## Skills
 
@@ -17,11 +17,11 @@ My journey into computer information systems has led me to develop a passion for
 
 | Skill                                                           | Associated Project          |
 |-----------------------------------------------------------------|-----------------------------|
-|SIEM Implementation and Log Analysis                             | <a href>  </a>                            
-|Network Traffic Monitoring and Attack Detection                  | <a href>  </a>
-|Security Automation with Shuffle SOAR                            | <a href>  </a>                            
-|Incident Response Planning and Execution                         | <a href>  </a>
-|Case Management with TheHive                                     | <a href>  </a>                           
+|Example 1                                                        | <a href>  </a>                            
+|Example 2                                                        | <a href>  </a>
+|Example 3                                                        | <a href>  </a>                            
+|Example 4                                                        | <a href>  </a>
+|Example 5                                                        | <a href>  </a>                           
 
 
 ## Tools
@@ -57,15 +57,15 @@ My journey into computer information systems has led me to develop a passion for
 
 [Provide certifications that you have obtained]
 <div>
-  <img src="" />
+  CompTIA Security + <img src="" />
   <img src="" />
 </div>
 
 ## Projects 
 
--Detection Lab
--SOC Automation Project
--Test Project
+-1
+-2
+-3
 
 
 
