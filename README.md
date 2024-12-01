@@ -1,13 +1,9 @@
 # Hello, I'm David
 <a href="">https://www.linkedin.com/in/da-flores/</a>
 
-[Brief Introduction]
-
 I am a CIS graduate with a passion for problem solving through the use of technology and a dedication to helping others.
 
 ## Objective
-
-[Provide Objective]
 
 My journey into computer information systems has led me to develop a passion for cloud and security. I am eager to transition into this field.
 
@@ -55,7 +51,6 @@ My journey into computer information systems has led me to develop a passion for
 
 ## Certifications
 
-[Provide certifications that you have obtained]
 <div>
   CompTIA Security + <img src="" />
   <img src="" />
