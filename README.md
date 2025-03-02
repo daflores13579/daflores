@@ -1,4 +1,4 @@
-# Hello, I'm David
+# Hello, I'm David Flores
 <a href="">https://www.linkedin.com/in/da-flores/</a>
 
 I am a CIS graduate with a passion for problem solving through the use of technology and a dedication to helping others.
