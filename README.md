@@ -1,7 +1,7 @@
 # Hello, I'm David Flores!
 
 
-I am a IT professional with a background in information systems and cybersecurity. I am dedicated to helping others and have a passion for problem solving.
+I am a IT professional with a background in information systems and cybersecurity. I am dedicated to helping others and have a passion for problem solving with and without the use of technology.
 
 <h2>👨‍💻 Cybersecurity Projects:</h2>
 
